@@ -8,7 +8,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm:
-	#1. Algorithm for 1-Norm of a Matrix
+	## 1. Algorithm for 1-Norm of a Matrix
 		Step 1: Start the program.
 		Step 2: Import the required os and numpy libraries.
 		Step 3: Set the environment variable OPENBLAS_NUM_THREADS to "1".
@@ -18,7 +18,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 		Step 7: Display the 1-Norm of the matrix.
 		Step 8: Stop the program.
 	
-	#2. Algorithm for 2-Norm of a Matrix
+	## 2. Algorithm for 2-Norm of a Matrix
 		Step 1: Start the program.
 		Step 2: Import the required os and numpy libraries.
 		Step 3: Set the environment variable OPENBLAS_NUM_THREADS to "1".
@@ -28,7 +28,7 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 		Step 7: Display the 2-Norm of the matrix.
 		Step 8: Stop the program.
 
-	#3. Algorithm for Infinity Norm of a Matrix
+	## 3. Algorithm for Infinity Norm of a Matrix
 		Step 1: Start the program.
 		Step 2: Import the required os and numpy libraries.
 		Step 3: Set the environment variable OPENBLAS_NUM_THREADS to "1".
