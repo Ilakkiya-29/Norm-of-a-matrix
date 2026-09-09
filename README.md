@@ -1,11 +1,11 @@
 # Norm of a matrix
 
 ## Aim
-To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
+	To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
 
 ## Equipment’s required:
-1.	Hardware – PCs
-2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
+	1.	Hardware – PCs
+	2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm:
 ## 1-Norm of a Matrix
@@ -81,4 +81,4 @@ print(norm_of_matrix)
 <img width="828" height="812" alt="image" src="https://github.com/user-attachments/assets/179c12f2-736f-447a-a186-0ef5a4d45d61" />
 
 ## Result
-Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
+	Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
