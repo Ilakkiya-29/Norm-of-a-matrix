@@ -8,35 +8,35 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm:
-#1. Algorithm for 1-Norm of a Matrix
-	Step 1: Start the program.
-	Step 2: Import the required os and numpy libraries.
-	Step 3: Set the environment variable OPENBLAS_NUM_THREADS to "1".
-	Step 4: Get the matrix input from the user and convert it into a NumPy array.
-	Step 5: Calculate the 1-Norm of the matrix using np.linalg.norm(mat, 1).
-	Step 6: Format the result to two decimal places.
-	Step 7: Display the 1-Norm of the matrix.
-	Step 8: Stop the program.
+	#1. Algorithm for 1-Norm of a Matrix
+		Step 1: Start the program.
+		Step 2: Import the required os and numpy libraries.
+		Step 3: Set the environment variable OPENBLAS_NUM_THREADS to "1".
+		Step 4: Get the matrix input from the user and convert it into a NumPy array.
+		Step 5: Calculate the 1-Norm of the matrix using np.linalg.norm(mat, 1).
+		Step 6: Format the result to two decimal places.
+		Step 7: Display the 1-Norm of the matrix.
+		Step 8: Stop the program.
 	
 	#2. Algorithm for 2-Norm of a Matrix
-	Step 1: Start the program.
-	Step 2: Import the required os and numpy libraries.
-	Step 3: Set the environment variable OPENBLAS_NUM_THREADS to "1".
-	Step 4: Get the matrix input from the user and convert it into a NumPy array.
-	Step 5: Calculate the 2-Norm of the matrix using np.linalg.norm(mat, 2).
-	Step 6: Format the result to two decimal places.
-	Step 7: Display the 2-Norm of the matrix.
-	Step 8: Stop the program.
+		Step 1: Start the program.
+		Step 2: Import the required os and numpy libraries.
+		Step 3: Set the environment variable OPENBLAS_NUM_THREADS to "1".
+		Step 4: Get the matrix input from the user and convert it into a NumPy array.
+		Step 5: Calculate the 2-Norm of the matrix using np.linalg.norm(mat, 2).
+		Step 6: Format the result to two decimal places.
+		Step 7: Display the 2-Norm of the matrix.
+		Step 8: Stop the program.
 
 	#3. Algorithm for Infinity Norm of a Matrix
-	Step 1: Start the program.
-	Step 2: Import the required os and numpy libraries.
-	Step 3: Set the environment variable OPENBLAS_NUM_THREADS to "1".
-	Step 4: Get the matrix input from the user and convert it into a NumPy array.
-	Step 5: Calculate the Infinity Norm of the matrix using np.linalg.norm(mat, np.inf).
-	Step 6: Format the result to two decimal places.
-	Step 7: Display the Infinity Norm of the matrix.
-	Step 8: Stop the program.
+		Step 1: Start the program.
+		Step 2: Import the required os and numpy libraries.
+		Step 3: Set the environment variable OPENBLAS_NUM_THREADS to "1".
+		Step 4: Get the matrix input from the user and convert it into a NumPy array.
+		Step 5: Calculate the Infinity Norm of the matrix using np.linalg.norm(mat, np.inf).
+		Step 6: Format the result to two decimal places.
+		Step 7: Display the Infinity Norm of the matrix.
+		Step 8: Stop the program.
 	
 ## Program:
 ```Python
